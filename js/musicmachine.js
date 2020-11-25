@@ -55,7 +55,7 @@ $(document).ready(function () {
 
     //song one and two recording
     var songOneRecording = ["G,4", "A,4", "C,5", "D,5", "A,4", "A,4", "A,4", "G,4", "E,4"];
-    var songTwoRecording = ["G,4", "G,4", "A,4", "A,4", "C,5", "D,5", "G,4","A,4", "A,4", "A,4", "G,4", "A,4" ];
+    var songTwoRecording = ["G,4", "A,4", "B,4", "B,4", "C,5", "B,4","B,4", "A,4", "A,4", "G,4", "G,4", "A,4", "B,4", "B,4" ];
     // This anonymous function makes the Play Recording
     // button play the array of recorded notes
     $("#playButton").click(function () {
